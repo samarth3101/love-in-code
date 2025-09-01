@@ -1,2 +1,3 @@
 # love-in-code
-No description for it :) 
+
+Spread Love with JavaScript :) 
